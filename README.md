@@ -17,11 +17,3 @@ A Streamlit app that lets users upload any PDF and ask questions about its conte
 ```bash
 streamlit run app.py
 
-SQL
-
-
-Then:
-```bash
-git add README.md
-git commit -m "Add README"
-git push
